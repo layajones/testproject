@@ -1,2 +1,3 @@
-# testproject
-testproject
+# My Test Project
+
+This is my test project learning Serverless Architecture
